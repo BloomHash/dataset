@@ -13,4 +13,5 @@ voting_records_county
 
 polling 2020
 - A dataset of polls for the 2020 presidential election based on state
+- A dataset of the final week of polls for each state, including the average and projected winner
 - Source: https://projects.fivethirtyeight.com/polls-page/president_polls.csv
